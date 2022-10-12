@@ -42,7 +42,7 @@ and here we create database :  admin  </p>
 </p>
 
 
-<p>3-then you will find that laravel app will serve at :  http://localhost:8000/</p>
+<p>4-then you will find that laravel app will serve at :  http://localhost:8000/</p>
 
 <p>
     <img src="https://raw.githubusercontent.com/EmadMohDev/laravel_docker/main/imgs/serve.PNG" alt="list posts">
